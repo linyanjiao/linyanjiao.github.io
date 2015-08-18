@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "林燕娇",
+    "label": "毕业生",
+    "picture": "http://7xkjw9.com2.z0.glb.qiniucdn.com/maxim.jpg",
+    "email": "i@maxim.ren",
+    "phone": "+86 18817776651",
+    "website": "http://maxim.ren",
+    "summary": "我是一个热情开朗，吃苦耐劳，平易近人，诚实守信的人，对于工作认真负责，尽职尽责。",
+    "location": {
+      "address": "浦东新区",
+      "postalCode": "",
+      "city": "San Francisco",
+      "countryCode": "中国",
+      "region": "上海"
+    },
+    "profiles": [
+      {
+        "network": "weibo",
+        "username": "林燕娇Maxim",
+        "url": "http://weibo.com/u/3788627095"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "大麦网",
+      "position": "检票员",
+      "website": "http://www.damai.cn/",
+      "startDate": "2013-11-01",
+      "endDate": "2014-3-01",
+      "summary": "演唱会或商业演出时在门口检票，严格执行公司的有关规章制度和上级命令，做到有令必行，有禁必止。",
+      "highlights": []
+    },
+    {
+      "company": "上海新国际新国际博览中心",
+      "position": "接待",
+      "website": "",
+      "startDate": "2012-12",
+      "endDate": "至今",
+      "summary": "上海新国际博览中心展会，接待 主要负责来宾的接待，方便来宾更直观的参加展会。 ",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "青志部",
+      "position": "志愿者",
+      "website": "http://maxim.ren",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "青志部部员，主要是去敬老院，幼儿园担当志愿者。",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "上海民院直接技术学院",
+      "area": "物流管理",
+      "studyType": "大专",
+      "startDate": "2012-09-01",
+      "endDate": "至今",
+      "gpa": "",
+      "courses": [
+        "供应链管理",
+        "多式联运实务与法",
+        "国际航运实务与法",
+        "物流项目管理",
+        "物流管理"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "办公软件",
+      "level": "掌握",
+      "keywords": [
+        "office 办公套件",
+        "word",
+        "excel",
+        "ppt"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "普通话",
+      "fluency": "英语"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Mr.Chen",
+      "reference": "燕娇是一个热情开朗，吃苦耐劳，平易近人，诚实守信的人，对于工作认真负责，尽职尽责人 "
+    }
+  ]
+}
